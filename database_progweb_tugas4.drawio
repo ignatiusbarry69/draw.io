@@ -1,1 +1,22 @@
-<mxfile host="app.diagrams.net" modified="2022-03-05T02:01:16.452Z" agent="5.0 (Windows)" version="16.6.6" etag="qAWRox66beqMfTwbdzMK" type="github"><diagram id="PBkZkckJZHstfhdfQRsX">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-03-05T03:22:11.244Z" agent="5.0 (Windows)" etag="hVKjC6BrDoM1pFIgOH_I" version="16.6.6" type="github">
+  <diagram id="PBkZkckJZHstfhdfQRsX" name="Page-1">
+    <mxGraphModel dx="1360" dy="792" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="qQAjJx1lM1fIyK1FJnTy-2" value="Mahasiswa" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="180" y="180" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="qQAjJx1lM1fIyK1FJnTy-3" value="Kelas" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="570" y="180" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="qQAjJx1lM1fIyK1FJnTy-4" value="Dosen" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="180" y="320" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="qQAjJx1lM1fIyK1FJnTy-5" value="MataKuliah" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="570" y="320" width="100" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
